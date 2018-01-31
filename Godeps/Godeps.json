@@ -1,0 +1,34 @@
+{
+	"ImportPath": "github.com/hypermkt/takosan",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1-10-g33e0aa1",
+			"Rev": "33e0aa1cb7c019ccc3fbe049a8262a6403d30504"
+		},
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0-188-g22fa469",
+			"Rev": "22fa46961aabd2665cf3f1343b146d20028f5071"
+		},
+		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Comment": "v1.2.0-27-g91f589d",
+			"Rev": "91f589db023d66e4aba7112d44cc0d2fb091c553"
+		},
+		{
+			"ImportPath": "github.com/martini-contrib/binding",
+			"Rev": "05d3e151b6cf34dacac6306226a33db68459a3b5"
+		},
+		{
+			"ImportPath": "github.com/nlopes/slack",
+			"Comment": "v0.1.0-60-g2802452",
+			"Rev": "280245264a9d8c496e95ead447421d37cd95f93a"
+		}
+	]
+}
